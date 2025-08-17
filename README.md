@@ -1,7 +1,7 @@
 # Simulación Multi-Agente para Movilidad Urbana
 
 ## 📌 Reto elegido
-(Escribir aquí el reto elegido)
+Tráfico vehicular en la ciudad
 
 ---
 
